@@ -1,0 +1,16 @@
+E:\GitHub\cs_1.19_AreaQuadrado\bin\Debug\net5.0\cs_1.19_AreaQuadrado.exe
+E:\GitHub\cs_1.19_AreaQuadrado\bin\Debug\net5.0\cs_1.19_AreaQuadrado.deps.json
+E:\GitHub\cs_1.19_AreaQuadrado\bin\Debug\net5.0\cs_1.19_AreaQuadrado.runtimeconfig.json
+E:\GitHub\cs_1.19_AreaQuadrado\bin\Debug\net5.0\cs_1.19_AreaQuadrado.runtimeconfig.dev.json
+E:\GitHub\cs_1.19_AreaQuadrado\bin\Debug\net5.0\cs_1.19_AreaQuadrado.dll
+E:\GitHub\cs_1.19_AreaQuadrado\bin\Debug\net5.0\ref\cs_1.19_AreaQuadrado.dll
+E:\GitHub\cs_1.19_AreaQuadrado\bin\Debug\net5.0\cs_1.19_AreaQuadrado.pdb
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.csprojAssemblyReference.cache
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.AssemblyInfoInputs.cache
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.AssemblyInfo.cs
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.csproj.CoreCompileInputs.cache
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.dll
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\ref\cs_1.19_AreaQuadrado.dll
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.pdb
+E:\GitHub\cs_1.19_AreaQuadrado\obj\Debug\net5.0\cs_1.19_AreaQuadrado.genruntimeconfig.cache
